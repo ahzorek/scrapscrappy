@@ -15,11 +15,7 @@
     "informacaoAlergenica": "Contém cevada e glúten.",
     "imagemProduto": "https://www.ambev.com.br/sites/g/files/wnfebl5836/files/styles/webp/public/paragraphs/product_size/2022-09/Adriatica%20-%20600ml.png.webp?itok=F7eZrLaN",
     "informacoesNutricionais": [],
-    "harmonizacoes": [
-      "Água",
-      "Malte",
-      "Lúpulo"
-    ]
+    "harmonizacoes": []
   },
   {
     "nomeProduto": "Andes",
@@ -47,11 +43,6 @@
       }
     ],
     "harmonizacoes": [
-      "Água",
-      "Malte",
-      "Lúpulo",
-      "Churrasco",
-      "Choripan",
       "Queijos leves"
     ]
   },
@@ -95,9 +86,6 @@
       }
     ],
     "harmonizacoes": [
-      "Água",
-      "Malte",
-      "Lúpulo",
       "Pratos Tradicionais Alemães",
       "Peixes",
       "Frutos do Mar",
@@ -132,11 +120,6 @@
       }
     ],
     "harmonizacoes": [
-      "Lúpulo",
-      "Água",
-      "Malte",
-      "Milho",
-      "Suco de caju",
       "Paçoca",
       "Arroz",
       "Capote frito"
@@ -168,12 +151,74 @@
       }
     ],
     "harmonizacoes": [
-      "Água",
-      "Malte",
-      "Lúpulo",
       "Aromas florais",
       "Pratos embutidos",
       "Saladas"
+    ]
+  },
+  {
+    "nomeProduto": "Brahma Chopp",
+    "tamanhoEmbalagem": "269ml",
+    "descricaoProduto": "A referencia do sabor de cerveja no Brasil desde 1888, a Brahma Lager é uma cerveja saborosa e balanceada, com o sabor autêntico de cerveja brasileira, com espuma cremosa e persistente, amargor presente e ligeiramente encorpada.",
+    "valorIBU": "10.00",
+    "teorAlcoolico": "4,80",
+    "classificacaoCorpo": "(1)",
+    "temperaturaIdeal": "0-4 °C",
+    "ingredientes": [
+      "Água",
+      "Malte",
+      "Milho",
+      "Lúpulo"
+    ],
+    "informacaoAlergenica": "Contém cevada e glúten.",
+    "imagemProduto": "https://www.ambev.com.br/sites/g/files/wnfebl5836/files/styles/webp/public/paragraphs/product_size/2022-09/Brahma%20Chopp%20269ml.png.webp?itok=AGEZv59P",
+    "informacoesNutricionais": [
+      {
+        "nutrientName": "Calorias",
+        "nutrientValue": "41 kcal / Porção 100ml"
+      },
+      {
+        "nutrientName": "Carboidratos",
+        "nutrientValue": "3,4 g / Porção 100ml"
+      }
+    ],
+    "harmonizacoes": [
+      "Queijos Pouco Condimentados",
+      "Saladas",
+      "Frutos do Mar",
+      "Petiscos Fritos"
+    ]
+  },
+  {
+    "nomeProduto": "Budweiser",
+    "tamanhoEmbalagem": "269ml",
+    "descricaoProduto": "O processo de produçãoda Budweiser é diferenciado, por utilizar lascas de Beechwood (madeira especial) durante os processos de fermentação e maturação. O resultado é um cerveja de sabor único e com equilíbrio perfeito: marcante no início e suave no final.",
+    "valorIBU": "10.00",
+    "teorAlcoolico": "5,00",
+    "classificacaoCorpo": "(1)",
+    "temperaturaIdeal": "0-4 °C",
+    "ingredientes": [
+      "Água",
+      "Malte",
+      "Lúpulo"
+    ],
+    "informacaoAlergenica": "Contém cevada e glúten.",
+    "imagemProduto": "https://www.ambev.com.br/sites/g/files/wnfebl5836/files/styles/webp/public/paragraphs/product_size/2022-09/Budweiser%20269ml.png.webp?itok=mh6-3VVQ",
+    "informacoesNutricionais": [
+      {
+        "nutrientName": "",
+        "nutrientValue": ""
+      },
+      {
+        "nutrientName": "",
+        "nutrientValue": ""
+      }
+    ],
+    "harmonizacoes": [
+      "Arroz",
+      "Hambúrguer",
+      "Presunto",
+      "Mix de castanhas"
     ]
   },
   {
@@ -204,15 +249,43 @@
       }
     ],
     "harmonizacoes": [
-      "Água",
-      "Malte",
-      "Milho",
-      "Lúpulo",
-      "Corante de caramelo III INS 150c",
       "Sobremesa",
       "Torta de chocolate",
-      "Sorvete de creme",
-      "Brasil"
+      "Sorvete de creme"
+    ]
+  },
+  {
+    "nomeProduto": "Colorado Appia",
+    "tamanhoEmbalagem": "350ml",
+    "descricaoProduto": "A palavra Appia vem do latim e significa mel. O nome perfeito para a primeira cerveja do Brasil a utilizar mel em sua fórmula. Uma combinação exótica que, além do mel das flores das laranjeiras, é feita a partir dos melhores maltes de cevada e trigo, além de nossa exclusiva levedura de alta fermentação.",
+    "valorIBU": "10.00",
+    "teorAlcoolico": "5,50",
+    "classificacaoCorpo": "(1)",
+    "temperaturaIdeal": "4-8 °C",
+    "ingredientes": [
+      "Cerveja",
+      "Água",
+      "Mel",
+      "Levedura"
+    ],
+    "informacaoAlergenica": "Contém trigo, cevada e glúten.",
+    "imagemProduto": "https://www.ambev.com.br/sites/g/files/wnfebl5836/files/styles/webp/public/paragraphs/product_size/2022-06/appia-350ml_0.png.webp?itok=h9F7421m",
+    "informacoesNutricionais": [
+      {
+        "nutrientName": "Calorias",
+        "nutrientValue": "49 kcal / Porção de 100ml"
+      },
+      {
+        "nutrientName": "Carboidratos",
+        "nutrientValue": "4,2 g / Porção de 100ml"
+      }
+    ],
+    "harmonizacoes": [
+      "Comidas Leves",
+      "Saladas",
+      "Galinhada",
+      "Massas Leves",
+      "Queijo brie"
     ]
   },
   {
@@ -257,15 +330,54 @@
       }
     ],
     "harmonizacoes": [
-      "Lúpulo",
-      "Água",
-      "Malte",
-      "Mandioca",
-      "Milho",
       "Arroz com pequi",
       "Galinhada",
-      "Pamonha salgada",
-      "Brasil"
+      "Pamonha salgada"
+    ]
+  },
+  {
+    "nomeProduto": "Franziskaner Hell",
+    "tamanhoEmbalagem": "500ml",
+    "descricaoProduto": "Fundada em 1363 em Munique, capital do tradicional polo cervejeiro da Bavária, a marca mantém até hoje os preceitos da Lei de Pureza da Baviera de 1516. A Franziskaner Hefe Weissbier Hell é uma cerveja de trigo clara, turva, com aroma frutado, lembrando banana e cravo. Espuma abundante, branca e cremosa.Tem um teor alcoólico de 5% e harmoniza com saladas, peixes e frutos do mar.",
+    "valorIBU": "",
+    "teorAlcoolico": "5,00",
+    "classificacaoCorpo": "(1)",
+    "temperaturaIdeal": "4-8 °C",
+    "ingredientes": [
+      "Água",
+      "Malte de Trigo",
+      "Malte de Cevada",
+      "Lúpulo",
+      "Fermento"
+    ],
+    "informacaoAlergenica": "Contém cevada e glúten.",
+    "imagemProduto": "https://www.ambev.com.br/sites/g/files/wnfebl5836/files/styles/webp/public/paragraphs/product_size/2022-09/Franziskaner%20Hell%20500ml.png.webp?itok=hVw5dDNp",
+    "informacoesNutricionais": [],
+    "harmonizacoes": [
+      "Culinária chinesa",
+      "Comida Mexicana",
+      "Salsichão"
+    ]
+  },
+  {
+    "nomeProduto": "Goose Island IPA",
+    "tamanhoEmbalagem": "355ml",
+    "descricaoProduto": "A Goose Island IPA é inspirada nas tradicionais India Pale Ales que eram enviadas da Inglaterra para a Índia – altamente lupulada para preservar seu sabor distinto durante a longa viagem. O resultado é o sonho de um amante de lúpulo com um aroma frutado tropical e herbal desencadeado pelo dry hop e um sabor maltado agradável com corpo médio e um amargor equilibrado.",
+    "valorIBU": "55.00",
+    "teorAlcoolico": "5,90",
+    "classificacaoCorpo": "(1)",
+    "temperaturaIdeal": "8-12 °C",
+    "ingredientes": [
+      "Água",
+      "Malte",
+      "Lúpulo"
+    ],
+    "informacaoAlergenica": "Contém cevada e glúten. Pode conter trigo.",
+    "imagemProduto": "https://www.ambev.com.br/sites/g/files/wnfebl5836/files/styles/webp/public/paragraphs/product_size/2022-09/goose.png.webp?itok=V8O2BwMT",
+    "informacoesNutricionais": [],
+    "harmonizacoes": [
+      "Carnes vermelhas",
+      "Queijos azuis"
     ]
   },
   {
@@ -294,18 +406,46 @@
       }
     ],
     "harmonizacoes": [
-      "Água",
-      "Malte de Cevada",
-      "Trigo",
-      "semente de coentro",
-      "Casca Laranja",
-      "Lúpulo",
-      "estabilizante pectina de fruta",
       "Peixes",
       "frango grelhado",
       "Ceviche",
       "Feijoada"
     ]
+  },
+  {
+    "nomeProduto": "Kona Big Wave",
+    "tamanhoEmbalagem": "355ml",
+    "descricaoProduto": "Inspirada nas ondas da praia de Waime, a cerveja Kona Big Wave Golden Ale é uma cerveja dourada, com aroma e sabor de lúpulo tropical que lembra muito a natureza de sua terra natal, o Hawaii. É suave, fácil de beber e refrescante. Perfeita para acompanhar frutos do mar, saladas e massas leves",
+    "valorIBU": "",
+    "teorAlcoolico": "",
+    "classificacaoCorpo": "(1)",
+    "temperaturaIdeal": "",
+    "ingredientes": [],
+    "informacaoAlergenica": "",
+    "imagemProduto": "https://www.ambev.com.br/sites/g/files/wnfebl5836/files/styles/webp/public/paragraphs/product_size/2022-09/Kona%20Big%20Wave%20355ml.png.webp?itok=5V2mts-g",
+    "informacoesNutricionais": [],
+    "harmonizacoes": []
+  },
+  {
+    "nomeProduto": "Leffe Blonde",
+    "tamanhoEmbalagem": "330ml",
+    "descricaoProduto": "A cerveja Leffe Blonde possui maltes selecionados que criam uma cerveja encorpada e turva. Seu aroma é extremamente maltado e aroma sabor adocicado. É uma cerveja do tipo Belgian Blond Ale com 6,6% de teor alcoólico e harmoniza com peixes, frutos do mar e queijo gruyère ou emmental.",
+    "valorIBU": "21.50",
+    "teorAlcoolico": "6,60",
+    "classificacaoCorpo": "(1)",
+    "temperaturaIdeal": "4-8 °C",
+    "ingredientes": [
+      "Água",
+      "Malte de Cevada",
+      "Milho",
+      "Cevada",
+      "Açúcar de cana",
+      "Lúpulo"
+    ],
+    "informacaoAlergenica": "Contém cevada e glúten.",
+    "imagemProduto": "https://www.ambev.com.br/sites/g/files/wnfebl5836/files/styles/webp/public/paragraphs/product_size/2022-09/leffe.png.webp?itok=hQA0Ra5-",
+    "informacoesNutricionais": [],
+    "harmonizacoes": []
   },
   {
     "nomeProduto": "Legítima",
@@ -335,11 +475,6 @@
       }
     ],
     "harmonizacoes": [
-      "Água",
-      "Malte",
-      "Milho",
-      "Mandioca",
-      "Lúpulo",
       "Frutos do Mar",
       "Peixe",
       "Amendoim"
@@ -373,11 +508,6 @@
       }
     ],
     "harmonizacoes": [
-      "água",
-      "Malte",
-      "Milho",
-      "Mandioca",
-      "Lúpulo",
       "Carangueijo",
       "Saladas",
       "Mix de castanhas"
@@ -409,9 +539,6 @@
       }
     ],
     "harmonizacoes": [
-      "Água",
-      "Malte",
-      "Lúpulo",
       "Croquete de carne",
       "Mix de nuts",
       "Tacos de carne"
@@ -445,11 +572,6 @@
       }
     ],
     "harmonizacoes": [
-      "Água",
-      "Malte",
-      "Milho",
-      "Mandioca",
-      "Lúpulo",
       "Frutos do Mar",
       "Peixe",
       "Amendoim"
@@ -482,13 +604,36 @@
       }
     ],
     "harmonizacoes": [
-      "Água",
-      "Malte",
-      "Milho",
-      "Lúpulo",
       "Comida de boteco",
       "Fritura"
     ]
+  },
+  {
+    "nomeProduto": "Patagonia Bohemian Pilsener",
+    "tamanhoEmbalagem": "740ml",
+    "descricaoProduto": "A Patagonia Bohemian Pilsener é uma tradicional cerveja do tipo Pilsen. Ela é produzida com o lúpulo tcheco Saaz que proporciona um aroma fresco e frutado bem característico, além de uma coloração dourada profunda. Escolha pratos com frutos do mar e peixes, como anchovas ou bacalhau, para combinar com o sabor dessa cerveja argentina.",
+    "valorIBU": "18.00",
+    "teorAlcoolico": "5,20",
+    "classificacaoCorpo": "(1)",
+    "temperaturaIdeal": "0-4 °C",
+    "ingredientes": [
+      "Água",
+      "Malte",
+      "Lúpulo"
+    ],
+    "informacaoAlergenica": "Contém cevada e glúten.",
+    "imagemProduto": "https://www.ambev.com.br/sites/g/files/wnfebl5836/files/styles/webp/public/paragraphs/product_size/2022-09/becksln_0.png.webp?itok=B7x1zUHO",
+    "informacoesNutricionais": [
+      {
+        "nutrientName": "Calorias",
+        "nutrientValue": "94 kcal / Porção de 355ml"
+      },
+      {
+        "nutrientName": "Carboidratos",
+        "nutrientValue": "7,8 g / Porção de 355ml"
+      }
+    ],
+    "harmonizacoes": []
   },
   {
     "nomeProduto": "Polar",
@@ -503,6 +648,37 @@
     "imagemProduto": "https://www.ambev.com.brundefined",
     "informacoesNutricionais": [],
     "harmonizacoes": []
+  },
+  {
+    "nomeProduto": "Polar Puro Malte Gaúcho",
+    "tamanhoEmbalagem": "350ml",
+    "descricaoProduto": "O sabor de Polar que você já conhece com amargor balanceado para lembrar ainda mais o típico malte gaúcho.Não é só mais uma puro malte. é uma puro Malte Gaúcho. Feita com 100%do malte produzido no estado.Com o gaúcho desde 1912, Polar é parte da cultura e da história do estado.",
+    "valorIBU": "13.00",
+    "teorAlcoolico": "4,90",
+    "classificacaoCorpo": "(4)",
+    "temperaturaIdeal": "",
+    "ingredientes": [
+      "Lúpulo",
+      "Água",
+      "Malte"
+    ],
+    "informacaoAlergenica": "",
+    "imagemProduto": "https://www.ambev.com.br/sites/g/files/wnfebl5836/files/styles/webp/public/paragraphs/product_size/2022-10/3D%20Polar%20PM%20%28lata%29.png.webp?itok=jZ9QW27u",
+    "informacoesNutricionais": [
+      {
+        "nutrientName": "Calorias",
+        "nutrientValue": "82 kcal / Porção de 200ml"
+      },
+      {
+        "nutrientName": "Carboidratos",
+        "nutrientValue": "6 g / Porção de 200ml"
+      }
+    ],
+    "harmonizacoes": [
+      "Polenta frita",
+      "Arroz Carreteiro",
+      "Tainha na taquara"
+    ]
   },
   {
     "nomeProduto": "Serramalte",
@@ -529,11 +705,7 @@
         "nutrientValue": "3,7 g / Porção de 100ml"
       }
     ],
-    "harmonizacoes": [
-      "Água",
-      "Malte",
-      "Lúpulo"
-    ]
+    "harmonizacoes": []
   },
   {
     "nomeProduto": "Serrana",
@@ -561,12 +733,7 @@
         "nutrientValue": "3,4 g / Porção de 100ml"
       }
     ],
-    "harmonizacoes": [
-      "Água",
-      "Malte",
-      "Milho",
-      "Lúpulo"
-    ]
+    "harmonizacoes": []
   },
   {
     "nomeProduto": "Michelob Ultra",
@@ -593,8 +760,6 @@
       }
     ],
     "harmonizacoes": [
-      "Malte",
-      "Lúpulo",
       "Arroz"
     ]
   },
@@ -624,13 +789,9 @@
       }
     ],
     "harmonizacoes": [
-      "Água",
-      "Malte",
-      "Lúpulo",
       "Bolinho de peixe",
       "Salada caprese",
-      "Salsicha alemã",
-      "Alemanha"
+      "Salsicha alemã"
     ]
   },
   {
@@ -673,13 +834,35 @@
       }
     ],
     "harmonizacoes": [
-      "Água",
-      "Malte",
-      "Lúpulo",
       "Cogumelos",
       "Carne assada",
       "Legumes"
     ]
+  },
+  {
+    "nomeProduto": "Wäls 42",
+    "tamanhoEmbalagem": "375ml",
+    "descricaoProduto": "Cerveja do Estilo Saison, de receita belga. Coloração dourado âmbar.",
+    "valorIBU": "30.00",
+    "teorAlcoolico": "6,50",
+    "classificacaoCorpo": "(1)",
+    "temperaturaIdeal": "4-8 °C",
+    "ingredientes": [
+      "Água",
+      "Malte de Cevada",
+      "Açúcar de cana",
+      "Lúpulo",
+      "Extrato de abacaxi",
+      "Extrato de limão",
+      "Extrato de Coentro",
+      "Extrato de Amêndoa",
+      "Extrato de Café",
+      "Levedura"
+    ],
+    "informacaoAlergenica": "Contém cevada e glúten. Pode conter trigo.",
+    "imagemProduto": "https://www.ambev.com.br/sites/g/files/wnfebl5836/files/styles/webp/public/paragraphs/product_size/2022-09/wals.png.webp?itok=t2T6mC8g",
+    "informacoesNutricionais": [],
+    "harmonizacoes": []
   },
   {
     "nomeProduto": "Abiúda de Sergipe",
@@ -709,11 +892,6 @@
       }
     ],
     "harmonizacoes": [
-      "Água",
-      "Malte",
-      "Cevada",
-      "Lúpulo",
-      "Laranja",
       "Carangueijo",
       "Frutos do Mar",
       "Pastel de aratu"
