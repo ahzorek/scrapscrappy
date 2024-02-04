@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "cerveja": "node scraper_ambev_cer.js",
+    "cervejas": "node scraper_ambev_bulk.js"
   },
   "keywords": [],
   "author": "",
